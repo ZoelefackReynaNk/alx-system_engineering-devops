@@ -1,2 +1,2 @@
 #!/bin/bash
-tail +1 < head -3 iacta > random
+tail -n 1 < head -3 iacta
